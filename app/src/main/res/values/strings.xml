@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">With Relative Layout</string>
+    <string name="page_title">Relative Layout</string>
+    <string name="simple_app_logo_showing_different_layouts">Simple App Logo showing different layouts</string>
+    <string name="label">Enter name here\n</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="label2">Password</string>
+</resources>
